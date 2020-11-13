@@ -1,0 +1,26 @@
+{
+  "name": "vk.wall",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ff"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "canvas": "^2.6.1",
+    "cheerio": "^1.0.0-rc.3",
+    "convertapi": "^1.6.0",
+    "form-data": "^3.0.0",
+    "fs": "0.0.1-security",
+    "gm": "^1.23.1",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "sharp": "^0.26.1"
+  }
+}
